@@ -1,2 +1,2 @@
-# Ghotty-Config
-Ghotty 终端自用配置
+# Ghostty-Config
+Ghostty 终端自用配置
